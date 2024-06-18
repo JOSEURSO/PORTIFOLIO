@@ -201,7 +201,7 @@
    .btn-abrir-menu i{
      color: chartreuse;
      font-size: 40px;
-
+     position: fixed;
    }
    
    .menu-mobile{
