@@ -282,6 +282,11 @@
     line-height: 40PX;
    }
 
+ .img-sobre{
+    position: relative;
+  animation:flutuar 2s ease-in-out infinite alternate ;
+   }
+
    .topo-do-site .txt-topo-site h1 span{
     color: chartreuse;
    }
